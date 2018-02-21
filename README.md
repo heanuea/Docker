@@ -36,6 +36,28 @@ You should get this up Client and server settings
 
 
 ## **_Containers_**
+In Docker everything is based in Images its a combination on a file system and Parameters. Basically an Image is a snapshot of a container. Containers provide most of the isolation of a VM at a fraction of the computing power. 
+
+#### 1. Here is basic commands in creating an image 
+* [`docker create`](https://docs.docker.com/engine/reference/commandline/create) creates a container but does not start it.
+* [`docker rename`](https://docs.docker.com/engine/reference/commandline/rename/) allows the container to be renamed.
+* [`docker run`](https://docs.docker.com/engine/reference/commandline/run) creates and starts a container in one operation.
+* [`docker rm`](https://docs.docker.com/engine/reference/commandline/rm) deletes a container.
+* [`docker update`](https://docs.docker.com/engine/reference/commandline/update/) updates a container's resource limits.
+
+#### 2. To Stop or start a Container use some of these....
+* [`docker start`](https://docs.docker.com/engine/reference/commandline/start) starts a container so it is running.
+* [`docker stop`](https://docs.docker.com/engine/reference/commandline/stop) stops a running container.
+
+#### 3. Try and Run Hello world to test Docker try the command Below 
+```
+Docker run hello-world
+```
+you should get this message 
+```
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+```
 
 ## **__**
 ## **__**
