@@ -1,6 +1,11 @@
 # **_Docker_**
 Introduction to Docker (Docker For Windows) 
 
+Docker is a Container management service or shipping system for applications. Its useful for Developers to easily develop applications,
+ship them into containers which than can run and be deployed on any platform. 
+With Docker the beauty about it is that you can containers anywhere on any phyiscal or virtual machine or even cloud.
+Docker is great for Developers who are always trying out new software. To run a MySQL or any Database server or just to setup some type of new service, Docker makes this quite Simple and save you hours. 
+Docker has a lot of libarys to be imported so you can update your appliction by importing to the newest Library. 
 
 ## **_Requirements_**
 
@@ -30,7 +35,8 @@ You should get this up Client and server settings
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf5WQPRN-U8L3p9eVtzd34JcYkg1TZRPXinq1g34QGKaML29C5VA)
 
 
-## **__**
+## **_Containers_**
+
 ## **__**
 ## **__**
 ## **__**
